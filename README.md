@@ -33,7 +33,7 @@ curriculum vitae
         <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="150px" title="Git"> 
         <div>
             <a href="https://gitlab.com/ErkMAd">
-                <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="70vh" alt="GitLab">
+                <img src="https://dng5l922vgz8f.cloudfront.net/media/filer_public/17/89/17895359-e3cb-431a-8491-2902eeb2a533/gitlab-logo.png" width="70vh" alt="GitLab">
             </a>
             <h2 style="margin-top: -3.5rem; margin-left: 6rem;">hola mundo</h2>
         </div>
