@@ -28,13 +28,19 @@ curriculum vitae
 -	php (PDO)
 -	java FX
 
-<br>
-<br>
 
-<p>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="150px" title="Git"> 
-  <br>
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="100px" alt="GitLab"><h4><a>https://gitlab.com/ErkMAd</a></h4>
-  <br>
-  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="100px" alt="GitHub"><h4><a>https://github.com/ErkThay</a></h4>
-</p>
+    <p>
+        <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="150px" title="Git"> 
+        <div>
+            <a href="https://gitlab.com/ErkMAd">
+                <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="70vh" alt="GitLab">
+            </a>
+            <h2 style="margin-top: -3.5rem; margin-left: 6rem;">hola mundo</h2>
+        </div>
+        <div style="margin-left: 16rem; margin-top: -4rem;">
+            <a href="https://github.com/ErkThay">
+                <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="45vh" alt="GitHub">
+            </a>
+            <h2 style="margin-top: -3rem; margin-left: 5rem;">hola mundo</h2>
+        </div>
+    </p>
