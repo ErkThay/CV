@@ -30,7 +30,6 @@ curriculum vitae
 
 
     <p>
-        <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="150px" title="Git"> 
         <div>
             <a href="https://gitlab.com/ErkMAd">
                 <img src="https://dng5l922vgz8f.cloudfront.net/media/filer_public/17/89/17895359-e3cb-431a-8491-2902eeb2a533/gitlab-logo.png" width="50vh" alt="GitLab">
