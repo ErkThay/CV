@@ -28,7 +28,11 @@ curriculum vitae
 -	php (PDO)
 -	java FX
 
+<br>
+<br>
+
 <p>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="50px" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width="200px" title="hover text">
+  <br>
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="100" alt="accessibility text">
 </p>
