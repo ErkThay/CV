@@ -15,18 +15,29 @@ curriculum vitae
 
 ## Habilidades técnicas 📦
 
--	Java
--	HTML5
--	Java Script
--	MySQL
--	Visual Basic. NET
--	CSS3
--	JSON 
--	NodeJS
--	React
--	Mongo DB
--	php (PDO)
--	java FX
+- Java
+- java FX
+- HTML5
+- JavaScript
+- MySQL
+- Visual Basic. NET
+- CSS3
+- Bootstrap
+- JSON
+- NodeJS
+- Express
+- React
+- MongoDB
+- php (PDO)
+- Git
+- Heroku
+- WebPack
+- Manejo de las TIC´s
+- O.S. Windows 2000 al 10
+- Linux
+- npm
+- Visual Studio Code
+
 
 
     <p>
